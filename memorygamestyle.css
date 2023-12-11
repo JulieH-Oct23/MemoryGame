@@ -1,0 +1,13 @@
+#game div {
+    border: 5px solid orchid;
+    width: 20%;
+    height: 200px;
+    margin: 20px;
+    display: inline-block;
+  }
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    color: orchid;
+}
